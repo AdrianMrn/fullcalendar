@@ -12,6 +12,7 @@
 
   & .fc-event-time {
     font-weight: bold;
+    flex: none;
   }
 
   & .fc-event-time,
